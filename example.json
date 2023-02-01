@@ -1,0 +1,36 @@
+{
+  "full_hierarchy": {
+    "id": "top",
+    "children": [
+      {
+        "id": "a",
+        "children": [
+          {
+            "id": "b",
+            "children": [
+              {
+                "id": "c",
+                "children": [
+                  {
+                    "id": "d",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "ref_hierarchy": [
+    "a",
+    "c"
+  ],
+  "item_map": {
+    "a": "this",
+    "b": "is",
+    "c": "an",
+    "d": "example"
+  }
+}
